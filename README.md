@@ -2,35 +2,11 @@
 
 **EstateWise** is a full-stack chatbot application that helps users find their dream property in **Chapel Hill, NC** and surrounding areas. The app harnesses state‑of‑the‑art **AI technology and Retrieval-Augmented Generation (RAG)** techniques to deliver personalized property recommendations based on user preferences. Whether you sign in to save your conversation history or continue as a guest, EstateWise offers a sleek, responsive interface with smooth animations and a modern design.
 
-## Table of Contents
-
-- [Live App](#live-app)
-  - [Key Technologies](#key-technologies-used)
-- [Features](#features)
-- [Architecture](#architecture)
-  - [High-Level Architecture Flow Diagram](#high-level-architecture-flow-diagram)
-- [Setup & Installation](#setup--installation)
-  - [Backend Setup](#backend-setup)
-  - [Frontend Setup](#frontend-setup)
-- [Deployment](#deployment)
-- [Usage](#usage)
-- [User Interface](#user-interface)
-- [API Endpoints](#api-endpoints)
-  - [Authentication](#authentication)
-  - [Conversations](#conversations)
-  - [Chat](#chat)
-  - [Swagger API Documentation](#swagger-api-documentation)
-- [Project Structure](#project-structure)
-- [Dockerization](#dockerization)
-- [OpenAPI Specification](#openapi-specification)
-- [Contributing](#contributing)
-- [License](#license)
-
 ## Live App
 
-Visit the live app on **Vercel** at [https://estatewise.vercel.app/](https://estatewise.vercel.app/) and explore the intelligent estate assistant!
+Visit the live app on **Vercel** at [https://estatewise.vercel.app/](🏠 A robust real estate chat application that streamlines user authentication, conversation management, and personalized property recommendations with a modern API, RAG, and responsive UI. Explore our repository to see how we integrate Express, MongoDB, and real-time chat features for an intuitive, scalable experience.) and explore the intelligent estate assistant!
 
-The API is available at: [https://estatewise-backend.vercel.app/](https://estatewise-backend.vercel.app/).
+The API is available at: [https://estatewise-backend.vercel.app/](🏠 A robust real estate chat application that streamlines user authentication, conversation management, and personalized property recommendations with a modern API, RAG, and responsive UI. Explore our repository to see how we integrate Express, MongoDB, and real-time chat features for an intuitive, scalable experience.).
 
 Feel free to test the app as a guest or sign up for an account to save your conversations!
 
