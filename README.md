@@ -241,12 +241,6 @@ EstateWise features a modern, animated, and fully responsive user interface buil
   <img src="img/reset-password.png" alt="EstateWise UI" width="100%" />
 </p>
 
-### 400 Not Found Page
-
-<p align="center">
-  <img src="img/404.png" alt="EstateWise UI" width="100%" />
-</p>
-
 ## API Endpoints
 
 ### Authentication
