@@ -118,7 +118,7 @@ EstateWise is built with a modern, full-stack architecture consisting of two maj
 1. **Clone the repository:**
 
    ```bash
-   git clone https://github.com/hoangsonww/EstateWise-Chapel-Hill-Chatbot.git
+   git clone https://github.com/MeAkash77/Real-Estate-Wise-Hill-Chatbot.git
    cd estatewise/backend
    ```
 
@@ -340,11 +340,3 @@ Contributions are welcome! Follow these steps:
 4. **Push to the branch:**  
    `git push origin feature/your-feature-name`
 5. **Open a Pull Request** with a clear description of your changes.
-
-## License
-
-This project is licensed under the [MIT License](LICENSE).
-
----
-
-[⬆️ Back to Top](#table-of-contents)
