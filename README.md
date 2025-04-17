@@ -4,7 +4,7 @@
 
 ## Live App
 
-Visit the live app on **Vercel** at [https://estatewise.vercel.app/](🏠 A robust real estate chat application that streamlines user authentication, conversation management, and personalized property recommendations with a modern API, RAG, and responsive UI. Explore our repository to see how we integrate Express, MongoDB, and real-time chat features for an intuitive, scalable experience.) and explore the intelligent estate assistant!
+Visit the live app on **Vercel** at [https://akash77-real-estate-wise-hill-chatbot.vercel.app/](🏠 A robust real estate chat application that streamlines user authentication, conversation management, and personalized property recommendations with a modern API, RAG, and responsive UI. Explore our repository to see how we integrate Express, MongoDB, and real-time chat features for an intuitive, scalable experience.) and explore the intelligent estate assistant!
 
 Feel free to test the app as a guest or sign up for an account to save your conversations!
 
